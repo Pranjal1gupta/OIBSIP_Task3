@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OIBSIP_Task3/static/css/main.250e9847.css",
+    "main.js": "/OIBSIP_Task3/static/js/main.11722a3d.js",
+    "static/js/787.63e47474.chunk.js": "/OIBSIP_Task3/static/js/787.63e47474.chunk.js",
+    "index.html": "/OIBSIP_Task3/index.html",
+    "main.250e9847.css.map": "/OIBSIP_Task3/static/css/main.250e9847.css.map",
+    "main.11722a3d.js.map": "/OIBSIP_Task3/static/js/main.11722a3d.js.map",
+    "787.63e47474.chunk.js.map": "/OIBSIP_Task3/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.250e9847.css",
+    "static/js/main.11722a3d.js"
+  ]
+}
